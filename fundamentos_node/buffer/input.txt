@@ -1,0 +1,2 @@
+soy un archivo que se usara para probar
+un stream de bytes

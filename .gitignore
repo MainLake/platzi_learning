@@ -1,0 +1,10 @@
+# ignorar los modulos de los proyectos de node 
+node_modules/
+# ignorar los modulos de los proyectos de node
+dist/
+# ignorar los modulos de los proyectos de node
+coverage/
+# ignorar los modulos de los proyectos de node
+.env
+# ignorar los modulos de los proyectos de node
+.env.test
